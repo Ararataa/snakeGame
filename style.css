@@ -1,0 +1,18 @@
+body {
+	font-family: 'Courier New', Courier, monospace;
+	text-align: center;
+}
+
+#gameOverModal {
+	display: none;
+	position: absolute;
+	width: 40%;
+	left: 30%;
+	top: 20vh;
+	height: 60vh;
+	background-color: brown;
+}
+
+#gameOverModal h1{
+	margin-top: 26vh;
+}
